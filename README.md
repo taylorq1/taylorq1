@@ -1,6 +1,6 @@
 ## ***Hi there*** 👋
 #### My name is Taylor Quach, I am a first-year Computer Science major at the *University of California, Irvine*.  
-##### 🌱 I am currently learning Python
+##### 🌱 I am currently learning Python and Discreet Mathematics
 ##### 📫 How to reach me: [quachtaylor@gmail.com](quachtaylor@gmail.com) 
 ##### ⚡ Connect with me on [LinkedIn](www.linkedin.com/in/taylor-quach-3a1481223)
 <!--
